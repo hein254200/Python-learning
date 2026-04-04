@@ -7,4 +7,4 @@ This repository is a collection of my Python programming exercises and notes,as 
 
 | No. | Exercise Title              | Description                                                  | Link         |
 |-----|-----------------------------|--------------------------------------------------------------|--------------|
-| 1   |                  |                  | [ ] |
+| 1   |      Simple Login System     | 簡易ログインシステム       | [view project ](./Python-learning/simple-login-system.py) |
