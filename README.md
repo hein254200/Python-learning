@@ -8,3 +8,4 @@ This repository is a collection of my Python programming exercises and notes,as 
 | No. | Exercise Title              | Description                                                  | Link         |
 |-----|-----------------------------|--------------------------------------------------------------|--------------|
 | 1   |      Simple Login System     | 簡易ログインシステム       | [view project ](./simple-login-system.py) |
+| 2  |    bmi calculator   | if-elif-else 文を使って肥満度を判定する BMI 指数計算機   |  [view project] (./bmi-calculator.py)
