@@ -12,3 +12,4 @@ This repository is a collection of my Python programming exercises and notes,as 
 | 3 |   Countdown-timer |   while文を使用して、指定された数値からカウントダウンを行うプログラムです。  |[view project](./Countdown-timer.py)
 | 4 | Guessing Game(random) | random モジュールと while 文を使って、ランダムな数字を当てるゲームです。| [view project](./Number-Guessing-game.py)
 | 5 | Linear Search | for 文を使用して、リストの中から特定の数値を探すプログラムです。| [view project](./linear-search.py)
+| 6 | Binary Search | 昇順に並んだリストを半分に分けながら検索するアルゴリズムです。 | [view project](./binary-search.py)
