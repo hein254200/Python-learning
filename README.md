@@ -13,3 +13,4 @@ This repository is a collection of my Python programming exercises and notes,as 
 | 4 | Guessing Game(random) | random モジュールと while 文を使って、ランダムな数字を当てるゲームです。| [view project](./Number-Guessing-game.py)
 | 5 | Linear Search | for 文を使用して、リストの中から特定の数値を探すプログラムです。| [view project](./linear-search.py)
 | 6 | Binary Search | 昇順に並んだリストを半分に分けながら検索するアルゴリズムです。 | [view project](./binary-search.py)
+| 7 | Book Collection | (追加、表示、検索、削除) 操作ができる蔵書管理システムです。| [view project](./Book-collection.py)
