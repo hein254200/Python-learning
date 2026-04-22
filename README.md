@@ -15,3 +15,4 @@ This repository is a collection of my Python programming exercises and notes,as 
 | 6 | Binary Search | 昇順に並んだリストを半分に分けながら検索するアルゴリズムです。 | [view project](./binary-search.py)
 | 7 | Book Collection | (追加、表示、検索、削除) 操作ができる蔵書管理システムです。| [view project](./Book-collection.py)
 | 8 | Book Collection (Function) | 関数を使用してモジュール化した蔵書管理システムです。| [view project](./Book-collection-with-function.py)
+| 9 | Student list | リストと辞書（List of Dictionaries）を使用した学生情報管理プログラム | [view project](./student-list.py)
